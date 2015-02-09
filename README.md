@@ -7,7 +7,7 @@ Imports [Bootstrap](http://getbootstrap.com) Less code before your custom Less c
 
 Install..
 
-Notice require Less v3.2.1 (download from github)
+Requires Less v2.4.0
 
 ```
 npm install -g less-plugin-bootstrap
